@@ -1,0 +1,9 @@
+# Core app
+streamlit>=1.33,<2
+pandas>=2.0,<3
+requests>=2.31,<3
+pydeck>=0.8,<1
+
+# Timezone support (needed for tz conversion like "America/Mexico_City")
+pytz>=2024.1
+tzdata>=2024.1
